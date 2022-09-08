@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AutoParabrisasNicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="idProducto" />
+    </Key>
+    <Property Name="idProducto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idMarca" Type="Int32" Nullable="false" />
+    <Property Name="idPrecio" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="codigoBarra" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cantidadEnStock" Type="Int32" />
+    <Property Name="numeroLote" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="estado" Type="Boolean" Nullable="false" />
+    <Property Name="fechaVence" Type="DateTime" Precision="3" />
+    <Property Name="fechaRegistro" Type="DateTime" Precision="3" />
+    <Property Name="fechaUpdate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="AutoParabrisasNicEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Productoes" EntityType="Self.Producto" />
+  </EntityContainer>
+</Schema>

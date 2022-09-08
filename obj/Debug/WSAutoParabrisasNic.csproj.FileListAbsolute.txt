@@ -1,0 +1,12 @@
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\WSAutoParabrisasNic.dll.config
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\WSAutoParabrisasNic.dll
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\WSAutoParabrisasNic.pdb
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\EntityFramework.dll
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\EntityFramework.SqlServer.dll
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\EntityFramework.xml
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\bin\EntityFramework.SqlServer.xml
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\obj\Debug\WSAutoParabrisasNic.csproj.AssemblyReference.cache
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\obj\Debug\WSAutoParabrisasNic.csproj.CoreCompileInputs.cache
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\obj\Debug\WSAutoParabrisasNic.csproj.CopyComplete
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\obj\Debug\WSAutoParabrisasNic.dll
+C:\Users\AnnieV\source\repos\WSAutoParabrisasNic\WSAutoParabrisasNic\obj\Debug\WSAutoParabrisasNic.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AutoParabrisasNicModelStoreContainer" CdmEntityContainer="AutoParabrisasNicEntities1">
+    <EntitySetMapping Name="Productoes">
+      <EntityTypeMapping TypeName="AutoParabrisasNicModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+          <ScalarProperty Name="idPrecio" ColumnName="idPrecio" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="codigoBarra" ColumnName="codigoBarra" />
+          <ScalarProperty Name="cantidadEnStock" ColumnName="cantidadEnStock" />
+          <ScalarProperty Name="numeroLote" ColumnName="numeroLote" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="fechaVence" ColumnName="fechaVence" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="fechaUpdate" ColumnName="fechaUpdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
